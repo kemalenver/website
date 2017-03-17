@@ -2,6 +2,10 @@
 layout: default
 ---
 
+# iOS Projects
+
+These are some of the projects I have worked on professionally over the past few years.  Many of them have won **awards from Apple** and all of them have **millions of users**.
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).

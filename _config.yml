@@ -1,13 +1,8 @@
-theme: jekyll-theme-minimal
-
 title: Kemal Enver
-description: Portfolio and Projects
-* Stuff
-* List
-
-show_downloads: false
-google_analytics: "SomeTrackingID"
-
+description: Lead Software Engineer from the UK.   I have seven years experience writing iPhone & iPad applications for major brands and clients.
+twitter: kemalenver
 email: kemal@kemalenver.com
-twitter_username: kemalenver
-github_username:  kemalenverf
+github: kemalenver
+show_downloads: false
+google_analytics:
+theme: 
