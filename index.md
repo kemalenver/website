@@ -18,7 +18,7 @@ These are some of the projects I have worked on professionally over the past few
 
 # [](#header-2)Kino.de
 
-[https://itunes.apple.com/de/app/kino-de/id481183246?mt=8](App Store page)
+[App Store]: https://itunes.apple.com/de/app/kino-de/id481183246?mt=8
 
 # [](#header-2)Wetter.de
 
