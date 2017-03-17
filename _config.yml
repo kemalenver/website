@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 
 title: Kemal Enver
 description: Portfolio and Projects
-show_downloads: "true"
+show_downloads: true
 google_analytics: "SomeTrackingID"
 
 email: kemal@kemalenver.com
