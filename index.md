@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: indexlayout
 ---
 
 # [](#header-1)iOS Projects

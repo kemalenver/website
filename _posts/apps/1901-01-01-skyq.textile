@@ -1,0 +1,17 @@
+---
+layout: applayout
+title: Sky Q
+category: [apps]
+image: /assets/images/skyq.jpg
+link: https://itunes.apple.com/gb/app/sky-q/id1033942116?mt=8
+---
+
+
+
+This is some text!
+This is some text!
+This is some text!
+This is some text!
+This is some text!
+This is some text!
+This is some text!

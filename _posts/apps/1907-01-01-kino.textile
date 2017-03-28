@@ -1,0 +1,17 @@
+---
+layout: applayout
+title: Kino
+category: [apps]
+image: /assets/images/kino.png
+link: https://itunes.apple.com/de/app/kino-de/id481183246?mt=8
+---
+
+
+
+This is some text!
+This is some text!
+This is some text!
+This is some text!
+This is some text!
+This is some text!
+This is some text!

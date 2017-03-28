@@ -43,6 +43,10 @@
       </header>
       <section>
 
+      {% for app in site.categories.apps do %}
+        <p> {{ app.title }}!</p>
+      {% endfor %}
+
       {{ content }}
 
       </section>
