@@ -58,10 +58,10 @@
 
       {% for app in site.categories.apps reversed %}
         <div class="flex-container">
-          <div class="left"><img src="{{ app.image }}" /></div>
+          <div class="left"><img src="{{ site.url }}{{ app.image }}"></div>
           <div class="right">
             <h1>{{ app.title }}</h1>
-            <p><a href="{{ site.url }}{{ app.link }}">AppStore</a></p>
+            <p><a href="{{ app.link }}">AppStore</a></p>
             <p>{{ app.excerpt }}</p>
           </div>
         </div>
