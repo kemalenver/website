@@ -51,7 +51,7 @@ These are some of the projects I have worked on professionally over the past few
 [App Store](https://itunes.apple.com/de/app/maxdome/id603968637?mt=8)
 
 
-# [](#header-2)![TSP]({{ site.url }}/assets/images/jpg.png) Der Tagesspiegal
+# [](#header-2)![TSP]({{ site.url }}/assets/images/tsp.jpg) Der Tagesspiegal
 
 [App Store](https://itunes.apple.com/de/app/der-tagesspiegel/id440157280?mt=8)
 
