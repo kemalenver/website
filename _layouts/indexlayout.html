@@ -35,14 +35,14 @@
         {% endif %}
 
         {% if site.email %}
-          <p >email: <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+          <p>email: <a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
         {% endif %}
 
         {% if site.linkedin %}
-          <p >linkedIn: <a href="{{ site.linkedin }}">Kemal Enver</a></p>
+          <p>linkedIn: <a href="{{ site.linkedin }}">Kemal Enver</a></p>
         {% endif %}
 
-        <p >curriculum vitae: <a href="/assets/documents/KemalCV2017.pdf">.pdf</a> |
+        <p>curriculum vitae: <a href="/assets/documents/KemalCV2017.pdf">.pdf</a> |
           <a href="/assets/documents/KemalCV2017.pages">.pages</a> |
         <a href="/assets/documents/KemalCV2017.docx">.word</a></p>
 
@@ -70,7 +70,7 @@
           <div class="right">
             <h1>{{ app.title }}</h1>
             <p><a href="{{ app.link }}">AppStore</a></p>
-            <p>{{ app.excerpt }}</p>
+            {{ app.excerpt }}
           </div>
         </div>
 
