@@ -16,7 +16,7 @@ These are some of the projects I have worked on professionally over the past few
 [App Store](https://itunes.apple.com/gb/app/sky-q/id1033942116?mt=8)
 
 
-# [](#header-2)![Stern]({{ site.url }}/assets/images/stern.png) Stern
+# [](#header-2)![Stern]({{ site.url }}/assets/images/stern.jpg) Stern
 
 [App Store](https://itunes.apple.com/de/app/stern-news-nachrichten-politik-und-unterhaltung/id376155932?mt=8)
 
@@ -46,12 +46,12 @@ These are some of the projects I have worked on professionally over the past few
 [App Store](https://itunes.apple.com/de/app/wetter-de-vorhersage-regenradar-und-mehr/id321934718?mt=8)
 
 
-# [](#header-2)![Maxdome]({{ site.url }}/assets/images/maxdome.png) Maxdome
+# [](#header-2)![Maxdome]({{ site.url }}/assets/images/maxdome.jpg) Maxdome
 
 [App Store](https://itunes.apple.com/de/app/maxdome/id603968637?mt=8)
 
 
-# [](#header-2)![TSP]({{ site.url }}/assets/images/tsp.png) Der Tagesspiegal
+# [](#header-2)![TSP]({{ site.url }}/assets/images/jpg.png) Der Tagesspiegal
 
 [App Store](https://itunes.apple.com/de/app/der-tagesspiegel/id440157280?mt=8)
 
