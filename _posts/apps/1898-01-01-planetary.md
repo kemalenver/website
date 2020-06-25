@@ -2,7 +2,7 @@
 layout: applayout
 title: Planetary
 category: [apps]
-image: /assets/images/planetary.jpg
+image: /assets/images/planetary.png
 link: https://apps.apple.com/au/app/planetary-remastered/id1473561807
 ---
 
