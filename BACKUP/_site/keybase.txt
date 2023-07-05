@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/kemalenver
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://kemalenver.com
+  * I am kemalenver (https://keybase.io/kemalenver) on keybase.
+  * I have a public key ASAq3IhGaWkWG7XXgYV2n5aEFQcKyUu4PapImMSX6Bh3gAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202adc88466969161bb5d78185769f968415070ac94bb83daa4898c497e81877800a",
+      "host": "keybase.io",
+      "kid": "01202adc88466969161bb5d78185769f968415070ac94bb83daa4898c497e81877800a",
+      "uid": "ab8c22616674fc66a2a0cef1501f7a19",
+      "username": "kemalenver"
+    },
+    "merkle_root": {
+      "ctime": 1567036133,
+      "hash": "1a1f563f149c65a6326635cb0964c689a73f13b4d62b4e0997ddcff4b177fee7727d9f982dea9d67e52f28f9294268e8976ecbbf7dd08b296b251e6bcb49c218",
+      "hash_meta": "baab29d01221977b2266604e9543ba7928b143ab44089d792b030ba0684ce1f5",
+      "seqno": 6123475
+    },
+    "service": {
+      "entropy": "bSzPn8VxFfDhoex3JOpO/a3b",
+      "hostname": "kemalenver.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.3.2"
+  },
+  "ctime": 1567036153,
+  "expire_in": 504576000,
+  "prev": "081380d14e4d1e25b76fe720caae1368fc52270ee1cdf0a386b1f14a30f22fe9",
+  "seqno": 27,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgKtyIRmlpFhu114GFdp+WhBUHCslLuD2qSJjEl+gYd4AKp3BheWxvYWTESpcCG8QgCBOA0U5NHiW3b+cgyq4TaPxSJw7hzfCjhrHxSjDyL+nEIFgzvSSWHTyYkXKZZ5Ajqb9sYr6xMf4ZvfHYSqmGoxRXAgHCo3NpZ8RAEy7C3VnJ31CtL88bkjHZcLeiyR3KLA4LkN2VXxbBEpA+4/PWYoL5kGmMNeAGXXbEhW7t5ySdDq2lrZ9M+8f1DKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJhGTIoaqb8ODHFpxgFg2m93dTnnEXGcHGI3pBnq6tTzo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kemalenver
+
+==================================================================
